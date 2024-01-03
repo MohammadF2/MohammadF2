@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Faraj</h1>
-<h3 align="center">A software engineer form Palestine</h3>
+<h3 align="center">A software engineer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadf2&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadf2" /> </p>
 
